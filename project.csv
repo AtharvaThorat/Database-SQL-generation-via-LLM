@@ -1,0 +1,7 @@
+project_id,name,description,microcontroller
+1,LED Light Show,Build an interactive LED display,Arduino
+2,Arcade Game,Create a retro arcade game,Raspberry Pi
+3,Robot Car,Build a self-driving robot car,Arduino
+4,Weather Station,Create an IoT weather monitor,BeagleBoard
+5,Music Synthesizer,Build a digital music maker,micro:bit
+6,Smart Home Controller,Design a home automation system,Raspberry Pi

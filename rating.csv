@@ -1,0 +1,13 @@
+rating_id,student_id,target_type,target_id,stars,comment,rated_on
+1,101,INSTRUCTOR,1,5,Excellent teacher,2025-08-15
+2,102,INSTRUCTOR,1,4,Very good,2025-08-15
+3,103,INSTRUCTOR,1,5,Best instructor,2025-08-15
+4,104,INSTRUCTOR,2,3,Average,2025-08-15
+5,105,INSTRUCTOR,2,4,Good explanations,2025-08-15
+6,106,INSTRUCTOR,2,5,Amazing,2025-08-15
+7,107,INSTRUCTOR,3,4,Great projects,2025-08-15
+8,108,INSTRUCTOR,3,3,Okay,2025-08-15
+9,109,INSTRUCTOR,4,4,Helpful,2025-08-15
+10,110,INSTRUCTOR,4,4,Clear instructions,2025-08-15
+11,111,INSTRUCTOR,5,5,Outstanding,2025-08-15
+12,112,INSTRUCTOR,5,5,Perfect,2025-08-15
