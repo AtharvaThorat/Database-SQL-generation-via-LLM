@@ -1,4 +1,3 @@
-
 # 🚀 AI-Powered SQL Generation from Natural Language
 
 ### Turning Human Questions into Executable SQL using LLMs + DuckDB
